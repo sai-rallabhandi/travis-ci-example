@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TravisCiExampleApplication {
 
 	public static void main(String[] args) {
+		//this is a comment
 		SpringApplication.run(TravisCiExampleApplication.class, args);
 	}
 
