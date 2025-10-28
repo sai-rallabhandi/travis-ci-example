@@ -1,0 +1,7 @@
+language: java
+jdk:
+  - openjdk17
+
+# Build steps
+script:
+  - mvn clean install
